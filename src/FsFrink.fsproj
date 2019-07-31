@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Core.fs" />
+    <Compile Include="Angle.fs" />
+    <Compile Include="Time.fs" />
+    <Compile Include="Length.fs" />
+    <Compile Include="Mass.fs" />
+    <Compile Include="Power.fs" />
+    <Compile Include="Speed.fs" />
+    <Compile Include="Area.fs" />
+    <Compile Include="Volume.fs" />
+    <Compile Include="Material.fs" />
+    <Compile Include="Energy.fs" />
+    <Compile Include="Temperature.fs" />
+    <Compile Include="Pressure.fs" />
+    <Compile Include="CGS.fs" />
+    <Compile Include="Optical.fs" />
+    <Compile Include="Information.fs" />
+    <Compile Include="Currency.fs" />
+    <Compile Include="Electricity.fs" />
+  </ItemGroup>
+</Project>
